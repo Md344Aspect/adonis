@@ -66,7 +66,7 @@ local PlayerGui   = LocalPlayer:WaitForChild("PlayerGui")
 -- Constants
 -- ─────────────────────────────────────────────────────────────────────────────
 local FONT = Font.new(
-    "rbxasset://fonts/families/SourceCodePro.json",
+    "rbxasset://fonts/families/RobotoMono.json",
     Enum.FontWeight.Regular,
     Enum.FontStyle.Normal
 )
